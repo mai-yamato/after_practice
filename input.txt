@@ -1,0 +1,2 @@
+ruby multiple_gets.rb < input.txtdmmwebcamp
+hello world
